@@ -1,8 +1,7 @@
 # Hill_Climb_in_Godot
 Attempt to replicate Hill Climb Racing with Godot's 3.1 2D physics
 
-# Dependencies
-[![Godot 3.1](https://img.shields.io/badge/Godot-3.1-blue)](https://godotengine.org) 
+# Using [![Godot 3.1](https://img.shields.io/badge/Godot-3.1-blue)](https://godotengine.org) 
 
 # The Problem
 I posted a description of the problem here:
