@@ -1,8 +1,6 @@
 # Hill_Climb_in_Godot
 Attempt to replicate Hill Climb Racing with Godot's 3.1 2D physics
 
-# Using [![Godot 3.1](https://img.shields.io/badge/Godot-3.1-blue)](https://godotengine.org) 
-
 # The Problem
 I posted a description of the problem here:
 https://godotengine.org/qa/50952/is-there-a-wheeljoint2d
@@ -14,5 +12,5 @@ It seems to work fine, but it doesn't look as good as the Unity physics of the o
 
 Note: The terrain generation algorithm is forked from this github page: https://github.com/kidscancode/godot3_procgen_demos
 
-# Setup
+# Setup in [![Godot 3.1](https://img.shields.io/badge/Godot-3.1-blue)](https://godotengine.org)
 Open Godot -> click on Import -> navigate to the downloaded folder and choose main.tsch
