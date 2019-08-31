@@ -11,3 +11,6 @@ physics objects to come as close as I can to the suspension effect.
 It seems to work fine, but it doesn't look as good as the Unity physics of the original Hill Climb.
 
 Note: The terrain generation algorithm is forked from this github page: https://github.com/kidscancode/godot3_procgen_demos
+
+# How to Open
+Open Godot -> click on Import -> navigate to the downloaded folder and choose main.tsch
