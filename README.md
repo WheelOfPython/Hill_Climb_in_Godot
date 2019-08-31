@@ -12,6 +12,6 @@ It seems to work fine, but it doesn't look as good as the Unity physics of the o
 
 Note: The terrain generation algorithm is forked from this github page: https://github.com/kidscancode/godot3_procgen_demos
 
-# Setup Using [![Godot 3.1](https://img.shields.io/badge/Godot-3.1-blue)](https://godotengine.org)
+# Setup using [![Godot 3.1](https://img.shields.io/badge/Godot-3.1-blue)](https://godotengine.org)
 Open Godot -> click on 'Import' -> navigate to the downloaded folder and choose 'project.godot'  
 Go to menu (Up-left of window) -> Debug -> check 'Visible Collision Shapes'
