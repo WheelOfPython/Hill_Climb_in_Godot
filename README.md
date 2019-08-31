@@ -14,3 +14,4 @@ Note: The terrain generation algorithm is forked from this github page: https://
 
 # Setup [![Godot 3.1](https://img.shields.io/badge/Godot-3.1-blue)](https://godotengine.org)
 Open Godot -> click on Import -> navigate to the downloaded folder and choose project.godot
+Go to: Up-left of window -> Debug -> check Visible Collision Shapes
